@@ -7,7 +7,7 @@ I focus on solving real-world testing problems such as **flaky tests**, **dynami
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🔧 Build UI + API automation frameworks from scratch  
 - 🧪 Skilled in Python, Pytest, Selenium, Requests  
@@ -15,6 +15,12 @@ I focus on solving real-world testing problems such as **flaky tests**, **dynami
 - 🔄 Design reusable modules, central auth handlers, and environment configs  
 - 🧱 Enjoy building frameworks that improve stability & reduce maintenance  
 - 📈 Always exploring new techniques like self-healing automation & parallel execution  
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen?logo=selenium)
+![Pytest](https://img.shields.io/badge/Pytest-Framework-yellow?logo=pytest)
+![REST API](https://img.shields.io/badge/API-Testing-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Active-black?logo=github)
 
 ---
 
@@ -43,30 +49,32 @@ I focus on solving real-world testing problems such as **flaky tests**, **dynami
 
 ## 📌 Featured Projects
 
-### 🔥 **Self-Heal Automation Framework**
-A Python + Selenium framework that automatically repairs broken locators using DOM analysis and healing logic.
+## 📁 Featured Projects
 
-🔗 Repo: [Self_Heal_Framework](https://github.com/PrasadHelaskar/Self_Heal_Framework)
+### 🔥 Self-Heal Automation Framework
+A Python + Selenium framework that automatically repairs broken locators using DOM analysis & healing logic.  
+**Tech:** Python • Selenium • Pytest • DOM Diffing • Design Patterns  
+🔗 Repo: [Self-Heal-Framework](https://github.com/PrasadHelaskar/Self_Heal_Framework)
 
 ---
 
-### 🔥 **Adaptive API Automation Framework**
-A modular Python API framework with centralized client, reusable request handlers, auth resolver, and env management.
-
+### 🔥 Adaptive API Automation Framework
+A modular Python API framework with reusable request handlers, centralized auth, and environment segregations.  
+**Tech:** Python • Requests • Pytest • Token Auth • API Client Design  
 🔗 Repo: [adaptive-api-framework](https://github.com/PrasadHelaskar/adaptive-api-framework)
 
 ---
 
-### 🔥 **Omnify UI Automation Suite**
-UI automation suite for SaaS product using POM, Pytest, parallel execution, and HTML reports.
-
+### 🔥 Omnify UI Automation Suite
+UI automation suite using POM, Pytest, parallel execution, and HTML reports.  
+**Tech:** Selenium • Pytest • POM • HTML Reports • CI-ready  
 🔗 Repo: [automation-service-store](https://github.com/PrasadHelaskar/automation-service-store)
 
 ---
 
-### 📌 **Indee Automation Engineer Assignment**
-Completed assignment demonstrating strong UI test design and clean framework structure.
-
+### 📌 Indee Automation Engineer Assignment
+Well-structured coding assignment demonstrating UI automation design & implementation.  
+**Tech:** Selenium • Pytest • Reporting  
 🔗 Repo: [indee-automation-assignment](https://github.com/PrasadHelaskar/indee-automation-assignment)
 
 ---
