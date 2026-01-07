@@ -47,8 +47,6 @@ I focus on solving real-world testing problems such as **flaky tests**, **dynami
 
 ---
 
-## 📌 Featured Projects
-
 ## 📁 Featured Projects
 
 ### 🔥 Self-Heal Automation Framework
