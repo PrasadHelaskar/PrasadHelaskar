@@ -63,7 +63,7 @@ A modular Python API framework with reusable request handlers, centralized auth,
 
 ---
 
-### 🔥 Omnify UI Automation Suite
+### 🔥 Service Store UI Automation Suite
 UI automation suite using POM, Pytest, parallel execution, and HTML reports.  
 **Tech:** Selenium • Pytest • POM • HTML Reports • CI-ready  
 🔗 Repo: [automation-service-store](https://github.com/PrasadHelaskar/automation-service-store)
